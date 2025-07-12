@@ -23,8 +23,7 @@ IGR is a powerful Bash-based framework to generate, encrypt, and inject Android 
 ## 🧑‍💻 المطوّر | Developer
 
 - الاسم: **SaQr**
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- للتواصل أو الدعم: (أضف رابط تيليجرام/إيميل لو أحببت)
+- GitHub: [github.com/amrsaqr1](https://github.com/amrsaqr1)
 
 ---
 
@@ -67,8 +66,8 @@ bash IGR.sh
 
 If this tool was helpful, support future updates:
 
-[☕ تبرع عبر Ko-fi | Donate via Ko-fi](https://ko-fi.com/ضع_رابطك_هنا)  
-📲 فودافون كاش: `ضع رقم اتصالات كاش الخاص بك هنا`
+[☕ تبرع عبر Ko-fi | Donate via Ko-fi](https://ko-fi.com/saqr306)  
+📲 Etisalat cash: `01110719296`
 
 ---
 
