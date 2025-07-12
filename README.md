@@ -33,8 +33,8 @@ IGR is a powerful Bash-based framework to generate, encrypt, and inject Android 
 
 ```bash
 sudo apt update && sudo apt install -y git
-git clone https://github.com/yourusername/igr-payload-tool
-cd igr-payload-tool
+git clone https://github.com/amrsaqr1/IGR-payload-tool.git
+cd IGR-payload-tool
 chmod +x IGR.sh
 ./IGR.sh
 ```
@@ -43,8 +43,8 @@ chmod +x IGR.sh
 
 ```bash
 pkg update && pkg install -y git
-git clone https://github.com/yourusername/igr-payload-tool
-cd igr-payload-tool
+git clone https://github.com/amrsaqr1/IGR-payload-tool.git
+cd IGR-payload-tool
 chmod +x IGR.sh
 bash IGR.sh
 ```
