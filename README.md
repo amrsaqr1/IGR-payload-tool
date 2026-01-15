@@ -67,7 +67,6 @@ bash IGR.sh
 If this tool was helpful, support future updates:
 
 [☕ تبرع عبر Ko-fi | Donate via Ko-fi](https://ko-fi.com/saqr306)  
-📲 Etisalat cash: `01110719296`
 
 ---
 
